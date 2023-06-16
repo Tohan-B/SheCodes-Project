@@ -39,3 +39,13 @@ h3 {
 .units {
   font-size: 35px;
 }
+
+.author-info {
+  position: absolute;
+  bottom: -60px;
+  right: 550px;
+  background-color: white;
+  padding: 5px;
+  font-size: 15px;
+  transform: translate(-50%, 50%);
+}
